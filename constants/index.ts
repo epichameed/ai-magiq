@@ -16,28 +16,28 @@ export const MAX_FREE_COUNTS = 5 as const;
 
 export const TESTIMONIALS = [
   {
-    name: "Carlos",
+    name: "Hameed",
     image: "/testimonials/user-1.jpeg",
     title: "Marketing Specialist",
     description:
       "This application has significantly boosted our marketing efforts.",
   },
   {
-    name: "Emily",
+    name: "Umer",
     image: "/testimonials/user-2.jpeg",
     title: "Student",
     description:
       "As a student, this app has been a lifesaver for organizing my tasks and schedules.",
   },
   {
-    name: "David",
+    name: "Khizer",
     image: "/testimonials/user-3.jpeg",
     title: "Entrepreneur",
     description:
       "The efficiency and reliability of this tool are unparalleled. Highly recommended!",
   },
   {
-    name: "Sophia",
+    name: "Waleed",
     image: "/testimonials/user-4.jpeg",
     title: "Graphic Designer",
     description: "Incredible features and user-friendly design. Love it!",

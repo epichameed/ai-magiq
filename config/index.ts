@@ -1,14 +1,14 @@
 import type { Metadata } from "next";
 
 export const siteConfig: Metadata = {
-  title: "Genius",
-  description: "A Modern Next.js 14 SaaS AI Platform.",
+  title: "Ai Magiq",
+  description: "A Modern SaaS AI Platform.",
   keywords: [
     "reactjs",
     "nextjs",
     "netlify",
     "react",
-    "genius-ai",
+    "ai-magiq",
     "artifical-intelligence",
     "shadcn",
     "shadcn-ui",
@@ -38,11 +38,11 @@ export const siteConfig: Metadata = {
     "css",
   ] as Array<string>,
   authors: {
-    name: "Sanidhya Kumar Verma",
-    url: "https://github.com/sanidhyy",
+    name: "Kashif Nadeem",
+    url: "https://github.com/",
   },
 } as const;
 
 export const links = {
-  sourceCode: "https://github.com/sanidhyy/genius-ai",
+  sourceCode: "https://github.com/",
 } as const;
